@@ -15,6 +15,7 @@ BuildRequires: perl(ExtUtils::MakeMaker)
 BuildRequires: perl(List::MoreUtils)
 BuildRequires: perl(Log::Dispatch::Array)
 BuildRequires: perl(Test::More)
+BuildRequires: perl(Test::Tester)
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
